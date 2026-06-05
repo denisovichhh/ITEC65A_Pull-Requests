@@ -68,4 +68,5 @@ Teacher List
 18.
 19. Yubal, Sarjie O.
 20. Tesoro, Mark Theodore L.
+21. Soledad, Dennis Jr. A.
 // You can add numbers to continue the list
